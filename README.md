@@ -6,7 +6,7 @@ The dataset contains 772 pictures with their corresponding bounding box labels, 
 
 If you use this dataset, please consider citing:
 ```
-@mastersthesis{hfruits-base,
+@mastersthesis{hfruits-sm,
   title={Automatic Detection of Hand-Occluded Fruits for Self-Checkout Registers},
   author={Hessels, V},
   year={2023},
